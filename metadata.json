@@ -1,0 +1,6 @@
+{
+  "name": "StudyFlow – Student Task & Study Planner",
+  "description": "Modern, minimalist SaaS task and study planner for university students to manage academic coursework, deadlines, categories, and productivity analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
